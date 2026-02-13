@@ -7,6 +7,8 @@
   <h1>🎉 Auto Deployed Static App</h1>
   <p>Using GitHub Actions + AWS EC2</p>
 <p>Updated via GitHub Actions</p>
+<p>Triggered GitHub Actions</p>
+
 
 </body>
 </html>
